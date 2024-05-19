@@ -1,0 +1,1 @@
+This project implements two interpolation methods: Spline Interpolation and Lagrange Interpolation. These methods are used to estimate values between known data points in a smooth and accurate manner. The implementation and analysis are applied to various datasets to evaluate the performance and accuracy of these interpolation techniques.
